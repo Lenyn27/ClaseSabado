@@ -30,6 +30,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
+                           <a class="navbar-brand" href="http://127.0.0.1:8000/lista">Listar</a>
 
                     </ul>
 
